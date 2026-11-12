@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Sensei-Triumph">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1200&text=Hello!%20I'm%20%20Omumuka%20Goodluck%20Christian%20%F0%9F%91%8B" alt="Hello! I&#39;m  Omumuka Goodluck Christian 👋" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1200&text=Hello!%20I'm%20%20Omumuka%20Goodluck%20Christian%20%F0%9F%91%8B" alt="Hello! I&#39;m Goodluck👋" />
   </a>
 </p>
 
